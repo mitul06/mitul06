@@ -1,21 +1,39 @@
-I am writing to inform you that I am interested in the MERN STACK Developer position. With over 3 years of experience as a MERN Stack Developer, my skills and passion for building dynamic web applications align perfectly with your requirements.
+**React.js Tech Lead | MERN Stack Developer**
 
-Technical Expertise:
+With **5+ years of experience** in MERN Stack development, I specialize in building **scalable, high-performance web applications** and leading development teams to deliver exceptional digital solutions.
 
-- Proficient in MongoDB, Express.js, React.js, and Node.js
-- Familiarity with AWS cloud services
+---
 
-Additional Strengths:
+### **Professional Journey**
 
-- Strong problem-solving skills with a proven ability to identify and resolve complex technical issues.
-- Excellent communication and collaboration skills, fostering a positive and productive work environment.
+As a **React.js Tech Lead**, I've transitioned from a hands-on developer into a **technical leader**, guiding teams in architecting and delivering robust web platforms. My expertise covers the full MERN stack—**MongoDB, Express.js, React.js, and Node.js**—with a deep focus on **React.js** and modern front-end architecture.
 
-Experience Highlights:
+---
 
-4+ years of experience working with Node.js, including E-commerce, Rental, and Finance projects.
-Extensive knowledge of React.
+### **Technical Expertise**
 
-<!---
-mitul06/mitul06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* ✅ Strong command of **React.js**, **Node.js**, and component-driven architecture
+* ✅ Hands-on experience with **MongoDB**, **Express.js**, REST APIs, and backend integration
+* ✅ Familiarity with **AWS Cloud Services**, deployment pipelines, and DevOps practices
+* ✅ Expertise in scalable system design, code quality, and performance optimization
+
+---
+
+### **Leadership & Collaboration**
+
+* 🔹 Led cross-functional teams in delivering **E-commerce, Healthcare, and Finance** web applications
+* 🔹 Proven ability to **mentor junior developers**, conduct code reviews, and drive team productivity
+* 🔹 Advocated best practices including **CI/CD**, **modular code**, and **Agile methodologies**
+* 🔹 Known for strong **problem-solving skills** and a collaborative, team-first mindset
+
+---
+
+### **Project Highlights**
+
+* 🛒 **E-commerce Platform**: Built a full-stack platform with user management, payment integration, and order processing
+* 💳 **Finance Dashboard**: Developed secure financial tracking tools with data visualization and real-time updates
+* 🏠 **Rental System**: Architected scalable APIs and interfaces for a property rental platform
+
+---
+
+I'm excited to bring my technical leadership, full-stack expertise, and passion for innovation to your team. Let's build something impactful together.
